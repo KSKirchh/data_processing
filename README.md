@@ -48,7 +48,7 @@ Launch this notebook on Binder in your browser by clicking the button:
 
 or scan the QR-Code to run this Notebook over Binder on your smartphone:
 
-![Binder-QR](https://raw.githubusercontent.com/kamischaaa/data_processing/master/grafics/kira_master.png)
+![Binder-QR](https://raw.githubusercontent.com/KSKirchh/data_processing/master/grafics/kira_master.png)
 
 ***
 
